@@ -1,0 +1,24 @@
+# Gerenciamento de arquivos e pastas
+
+- **mkdir**
+  - Cria um diretório.
+- **tree**
+  - Exibe graficamente a estrutura de diretórios de uma unidade ou caminho.
+- **type**
+  - Exibe o conteúdo de um arquivo de texto.
+- **copy con**
+  - Escreve dentro de um arquivo de texto pela linha de comandos.
+- **copy**
+  - Copia um ou mais arquivos para outro local.
+- **xcopy**
+  - Copia arquivos e árvores de diretórios.
+- **move**
+  - Move um ou mais arquivos de um diretório para outro diretório.
+- **ren / rename**
+  - Altera o nome de um ou mais arquivos.
+- **attrib**
+  - Exibe ou altera atributos de arquivos.
+- **del**
+  - Exclui um ou mais arquivos.
+- **rmdir**
+  - Remove um diretório.
