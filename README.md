@@ -5,4 +5,4 @@
 - [Gerenciamento de arquivos e pastas](https://github.com/juscelinodjj/50-comandos-do-prompt-de-comandos/blob/main/aulas/gerenciamento-de-arquivos-e-pastas.md)
 - [Comandos de rede](https://github.com/juscelinodjj/50-comandos-do-prompt-de-comandos/blob/main/aulas/comandos-de-rede.md)
 - [Discos e sistema de arquivos](https://github.com/juscelinodjj/50-comandos-do-prompt-de-comandos/blob/main/aulas/discos-e-sistema-de-arquivos.md)
-- Comandos para arquivos em lote
+- [Comandos para arquivos em lote](https://github.com/juscelinodjj/50-comandos-do-prompt-de-comandos/blob/main/aulas/comandos-para-arquivos-em-lote.md)

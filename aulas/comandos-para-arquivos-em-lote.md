@@ -1,0 +1,23 @@
+# Comandos para arquivos em lote
+
+- **echo**
+  - Exibe mensagens ou ativa ou desativa o recurso de eco de comando.
+- **set**
+  - Exibe, define ou remove variáveis de ambiente do cmd.exe.
+- **call**
+  - Chama um programa em lotes de outro.
+- **\>** e **\>\>** (Comandos de redirecionamento)
+  - Redireciona a saída de um comando para um arquivo.
+- **rem** e **::**
+  - Registra comentários em um arquivo em lotes ou no CONFIG.SYS.
+  - [Nota] O segundo comando não me parece a forma correta de usar.
+- **pause**
+  - Pausa o processamento de um programa em lotes e exibe a mensagem '*Pressione qualquer tecla para continuar. . .*'.
+- **start**
+  - Inicia uma janela separada para executar um programa ou comando especificado.
+- **choice**
+  - Solicita que o usuário selecione um item de uma lista de opções de caractere único e, em seguida, retorna o índice da escolha selecionada.
+- **if**
+  - Estrutura de decisão condicional.
+- **goto**
+  - Direciona cmd.exe para uma linha rotulada.
